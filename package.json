@@ -1,5 +1,9 @@
 {
-  "name": "@evanp/circuit-breaker",
+  "name": "evanp-circuit-breaker",
+  "description": "Implement circuit breaker pattern for HTTP requests",
+  "main": "lib/circuit-breaker.js",
+  "license": "CC0-1.0",
+  "repository": "github:evanp/circuit-breaker",
   "scripts": {
     "test": "perjury test/*-test.js"
   },

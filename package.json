@@ -1,0 +1,12 @@
+{
+  "name": "@evanp/circuit-breaker",
+  "scripts": {
+    "test": "perjury test/*-test.js"
+  },
+  "devDependencies": {
+    "perjury": "^1.1.1"
+  },
+  "dependencies": {
+    "debug": "^3.1.0"
+  }
+}
